@@ -28,7 +28,7 @@ En dehors de mon savoir faire, je suis une personne joviale et sympathique :) qu
 </p>
 
 
-![paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolaMBIA&show_icons=true)
+![Les statistiques Github de paola](https://github-readme-stats.vercel.app/api?username=paolaMBIA&show_icons=true)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paolaMBIA.visitor-badge)
+![visiteurs](https://visitor-badge.glitch.me/badge?page_id=paolaMBIA.visitor-badge)
