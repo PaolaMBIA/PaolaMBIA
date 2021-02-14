@@ -2,7 +2,7 @@
 
 # ![PaolaMBIA](https://github.com/PaolaMBIA/PaolaMBIA/blob/main/baner.PNG)
 
-Je suis une développeuse passionnée par les technologies du Web. J'ai un faible pour le Front-End car je peux développer ma créativité. Avant de réaliser des projets, j'aime bien établir un cahier de charges et un design UI/UX pour bien structurer le base. 
+Je suis une développeuse passionnée par les technologies du Web. J'ai un faible pour le Front-End car je peux développer ma créativité. Avant de réaliser des projets, j'aime bien établir un cahier de charges et un design UI/UX pour bien structurer la base. 
 
 <strong>Je travaille actuellement sur les technologies suivantes :</strong><br/>
  - <p><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-html-5.svg?raw=true">&nbsp;&nbsp;<span><strong>HTML5</strong></span><p>
