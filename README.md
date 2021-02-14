@@ -17,7 +17,7 @@ Je suis une développeuse passionnée par les technologies du Web. J'ai un faibl
  
 Je suis également ouverte à apprendre toutes autres technologies (j'ai une aptitude à rapidement m'adapter).
 
-En dehors de mon savoir faire, je suis une personne joviale et sympathique :) qui aime partager son savoir. N'hésitez pas à me contacter au [mail](mailto:afrik.tchop@gmail.com) si vous avez des questions sur mes réalisations ;)
+En dehors de mon savoir faire, je suis une personne joviale et sympathique :) qui aime partager son savoir. N'hésitez pas à me contacter par [mail](mailto:afrik.tchop@gmail.com) si vous avez des questions sur mes réalisations ;)
 
 <hr>
 
