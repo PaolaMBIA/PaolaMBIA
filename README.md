@@ -2,15 +2,18 @@
 
 # ![PaolaMBIA](https://github.com/PaolaMBIA/PaolaMBIA/blob/main/baner.PNG)
 
-Je suis une développeuse passionnée par les technologies du Web. J'ai un faible pour le Front-End car je peux développer ma créativité. Avant de réaliser des projets, j'aime bien établir un cahier de charges et un design UI/UX pour bien structurer le base. Je travaille généralement sur les technologies suivantes :
-- ### <p font-size=5>HTML5 & CSS3</p>
-- ### <p font-size=5>JavaScript</p>
-- ### <p font-size=5>React JS</p>
-- ### <p font-size=5>React Native</p>
-- ### <p font-size=5>Ionic</p>
-- ### <p font-size=5>Node JS</p>
-- ### <p font-size=5>MongoDB</p>
-- ### <p font-size=5>Firebase</p>
+Je suis une développeuse passionnée par les technologies du Web. J'ai un faible pour le Front-End car je peux développer ma créativité. Avant de réaliser des projets, j'aime bien établir un cahier de charges et un design UI/UX pour bien structurer le base. 
+<details>
+ <summary><strong>Je travaille actuellement sur les technologies suivantes :</strong></summary>
+<p font-size=5><strong>- HTML5 & CSS3</strong></p>
+<p font-size=5><strong>- JavaScript</strong></p>
+<p font-size=5><strong>- React JS</strong></p>
+<p font-size=5><strong>- React Native</strong></p>
+<p font-size=5><strong>- Ionic</strong></p>
+<p font-size=5><strong>- Node JS</strong></p>
+<p font-size=5><strong>- MongoDB</strong></p>
+<p font-size=5><strong>- Firebase</strong></p>
+</details>
  
 Néanmoins, je suis ouverte à travailler sur toutes autres technologies (j'ai une aptitude à rapidement m'adapter).
 
