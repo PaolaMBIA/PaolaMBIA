@@ -16,6 +16,8 @@ Néanmoins, je suis ouverte à travailler sur toutes autres technologies (j'ai u
 
 En dehors de mon savoir faire, je suis une personne joviale et sympathique :) qui aime partager son savoir. N'hésitez pas à me contacter au [mail](mailto:afrik.tchop@gmail.com) si vous avez des questions sur mes réalisations ;)
 
+<hr>
+
 ### Mes réseaux :
 <p align='center'>
  <a href="https://www.linkedin.com/in/paola-mbia-messi-86273a150/" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/linkledin.PNG?raw=true"></a>&nbsp;&nbsp;
