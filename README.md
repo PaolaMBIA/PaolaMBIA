@@ -26,3 +26,9 @@ En dehors de mon savoir faire, je suis une personne joviale et sympathique :) qu
  <a href="https://www.linkedin.com/in/paola-mbia-messi-86273a150/" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-linkedin.svg?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/paolambiamessi/" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+
+![paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolaMBIA&show_icons=true)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=paolaMBIA.visitor-badge)
