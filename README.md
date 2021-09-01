@@ -9,7 +9,7 @@ Je suis une développeuse passionnée par les technologies du Web. J'ai un faibl
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-css3.svg?raw=true"></a>&nbsp;&nbsp;<strong>CSS3</strong></span><br/><br/>
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-javascript.svg?raw=true"></a>&nbsp;&nbsp;<strong>Javascript</strong></span><br/><br/>
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-typescript.svg?raw=true"></a>&nbsp;&nbsp;<strong>TypeScript</strong></span><br/><br/>
- - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-javascript.svg?raw=true"></a>&nbsp;&nbsp;<strong>GraphQL</strong></span><br/><br/>
+ - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-graphql.svg?raw=true"></a>&nbsp;&nbsp;<strong>GraphQL</strong></span><br/><br/>
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-react-native.svg?raw=true"></a>&nbsp;&nbsp;<strong>React (JS & Native)</strong></span><br/><br/>
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-ionic.svg?raw=true"></a>&nbsp;&nbsp;<strong>Ionic</strong></span><br/><br/>
  - <a href="#" ><img width="35" src="https://github.com/PaolaMBIA/PaolaMBIA/blob/main/icons8-nodejs.svg?raw=true"></a>&nbsp;&nbsp;<strong>Node JS</strong></span><br/><br/>
